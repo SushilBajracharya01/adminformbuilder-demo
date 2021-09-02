@@ -1,0 +1,6 @@
+
+export const ADD_FORM_DATA = 'ADD_FORM_DATA';
+export const REORDER_FORM = 'REORDER_FORM';
+export const DELETE_FORM_ELEMENT = 'DELETE_FORM_ELEMENT';
+export const REMOVE_fORM = 'REMOVE_fORM';
+export const SET_EVV_DEFAULT = 'SET_EVV_DEFAULT';
